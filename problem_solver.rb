@@ -1,3 +1,6 @@
 1 class ProblemSolver
 2 end
-3fff
+def now_and_then
+end
+def rall_got_waei
+end
